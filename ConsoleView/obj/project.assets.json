@@ -17,8 +17,8 @@
   "libraries": {
     "Domain/1.0.0": {
       "type": "project",
-      "path": "../../../../Desktop/dev/rock_paper_scissors/Domain/Domain.csproj",
-      "msbuildProject": "../../../../Desktop/dev/rock_paper_scissors/Domain/Domain.csproj"
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -58,8 +58,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj"
+            "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj"
             }
           }
         }

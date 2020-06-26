@@ -20,8 +20,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj": {
-            "projectPath": "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj"
+          "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj": {
+            "projectPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj"
           }
         }
       }

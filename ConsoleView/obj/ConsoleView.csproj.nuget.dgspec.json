@@ -4,14 +4,14 @@
     "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\ConsoleView.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj": {
+    "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\ConsoleView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj",
-        "projectName": "Domain",
-        "projectPath": "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\ConsoleView.csproj",
+        "projectName": "ConsoleView",
+        "projectPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\ConsoleView.csproj",
         "packagesPath": "C:\\Users\\wlads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet"
@@ -31,7 +31,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\ConsoleView.csproj": {
+    "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\ConsoleView.csproj",
-        "projectName": "ConsoleView",
-        "projectPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\ConsoleView.csproj",
+        "projectUniqueName": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\wlads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\ConsoleView\\obj\\",
+        "outputPath": "C:\\Users\\wlads\\source\\repos\\RockPapperScissors\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet"
@@ -88,11 +92,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {
-              "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\wlads\\Desktop\\dev\\rock_paper_scissors\\Domain\\Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
