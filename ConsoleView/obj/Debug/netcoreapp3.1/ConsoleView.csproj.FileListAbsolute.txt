@@ -1,0 +1,16 @@
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\ConsoleView.exe
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\ConsoleView.deps.json
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\ConsoleView.runtimeconfig.json
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\ConsoleView.runtimeconfig.dev.json
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\ConsoleView.dll
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\ConsoleView.pdb
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.csprojAssemblyReference.cache
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.csproj.CoreCompileInputs.cache
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.AssemblyInfoInputs.cache
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.AssemblyInfo.cs
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.dll
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.pdb
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.genruntimeconfig.cache
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\wlads\source\repos\RockPapperScissors\ConsoleView\obj\Debug\netcoreapp3.1\ConsoleView.csproj.CopyComplete
